@@ -1,6 +1,6 @@
 # Snake ID Identification(CPU-only MVP)
 
-This is a minimal, **CPU-only** snake identifier for Myanmar. It classifies a photo into a small set of species and returns Burmese safety guidance with conservation-first language.
+This is a minimal, **CPU-only** snake identifier for Myanmar. It classifies a photo into a small set of species and returns safety guidance with conservation-first language.
 
 ## Quick Start
 
